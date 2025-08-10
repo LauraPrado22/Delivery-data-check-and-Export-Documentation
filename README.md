@@ -28,7 +28,7 @@ This Excel VBA macro automates the process of validating outbound deliveries in 
 ---
 
 ## SAP Macro Flow Diagram
-![SAP Automation Flow](images/sap_macro_flow.png)
+![SAP Automation Flow](https://github.com/LauraPrado22/Delivery-data-check-and-Export-Documentation/blob/main/58F58E63-CE25-4BB3-90EF-CBD0836EAF96.jpeg)
 
 ---
 
